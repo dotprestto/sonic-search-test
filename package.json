@@ -1,6 +1,6 @@
 {
-  "name": "sonic-search",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "dependencies": {
+    "sonic-channel": "^1.2.6",
+    "uuid": "^8.3.1"
+  }
 }

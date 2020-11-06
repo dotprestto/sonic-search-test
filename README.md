@@ -1,1 +1,1 @@
-# sonic-search-test
+Testing [Sonic](https://github.com/valeriansaliou/sonic) search backend.
